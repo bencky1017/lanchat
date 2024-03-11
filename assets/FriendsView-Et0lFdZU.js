@@ -1,0 +1,1 @@
+import{_ as s,b as t,c,d as e}from"./index-_doz-Cil.js";const _={},n={class:"center_right container_item"},o=e("div",{class:"center_list"},"好友列表",-1),i=e("div",{class:"right_main"}," 右边区域 ",-1),r=[o,i];function a(d,l){return t(),c("div",n,r)}const f=s(_,[["render",a]]);export{f as default};
